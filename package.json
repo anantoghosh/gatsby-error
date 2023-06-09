@@ -5,7 +5,7 @@
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "autoprefixer": "^8.2.0",
-    "gatsby": "^1.9.248",
+    "gatsby": "^4.25.7",
     "gatsby-image": "^1.0.43",
     "gatsby-link": "^1.6.39",
     "gatsby-plugin-manifest": "^1.0.15",
